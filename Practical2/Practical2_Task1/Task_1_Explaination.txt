@@ -1,0 +1,1 @@
+It we don't use iostream header file and use cout function then preprocessor doesn't give any erroor because preprocessor job is not to check whether we use a function without using it header file. 

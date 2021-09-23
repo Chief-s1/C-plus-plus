@@ -1,0 +1,1 @@
+In this preprocessor give fatal error because it is a job of preprocessor to check whether it is a meaningful library or not.
