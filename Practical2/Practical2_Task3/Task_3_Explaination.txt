@@ -1,0 +1,1 @@
+When we pass 123 or abc from character type data using cin function then it only print 1 or a because charcter data take 8 bits of memory therefore on run time cin fucntion only take 1st character.It work same as get() function.For passing a string we can use geline() function  string type data.   
