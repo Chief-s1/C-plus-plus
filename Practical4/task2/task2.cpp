@@ -1,4 +1,4 @@
-   #include<iostream>
+#include<iostream>
 using namespace std;
 namespace first
 {
@@ -15,14 +15,11 @@ namespace second
        }
 }
 using namespace first;
-using namespace second;
+using namespace second; 
 int main()
 {
        cout<<add(1,2)<<endl;
-       cout<<add(1.2,2)<<endl;
-       cout<<add(1,24)<<endl;
-       cout<<add(1.1,2.1)<<endl;
-       cout<<add(0,0)<<endl;
+       cout<<add(1.2f,2.5f)<<endl;
        return 0;
 }
-          
+       
